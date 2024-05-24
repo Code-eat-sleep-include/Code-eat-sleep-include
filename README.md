@@ -20,6 +20,15 @@
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:22bme052@iiitdmj.ac.in)
  
 [linkedin]: https://www.linkedin.com/in/niharika-shah-9018b8257/
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<a href="https://github.com/Code-eat-sleep-include">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Code-eat-sleep-include&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Code-eat-sleep-include&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 **Code-eat-sleep-include/Code-eat-sleep-include** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
