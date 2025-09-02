@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Code-eat-sleep-include aka Niharika Shah
 - 🌱 I’m currently learning full stack web-dev
 - 👀 I’m interested in new techonlogies
-- 📫 Email: shahniharikagujju@gmail.com
+- 📫 Email: niharikashah2004@gmail.com
   
 ### 🛠  Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
